@@ -1,0 +1,28 @@
+#data{
+    justify-content: center;
+    margin-top: 250px;
+    
+}
+#d{
+    margin-left: 610px;
+    
+}
+button{
+    border:3px solid darkblue;
+    border-radius: 5%;
+    color:white;
+    background-color: rgb(5, 5, 87);    
+    height:30px;
+    width: 70px;
+    font-style: oblique;
+    margin: auto;
+
+}
+
+#div{
+    margin-left: 610px;
+}
+
+body{
+    background-color: rgb(181, 203, 222);
+}
