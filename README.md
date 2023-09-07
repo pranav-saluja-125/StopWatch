@@ -1,5 +1,6 @@
 # StopWatch
-A basic Stopwatch with start,stop,lap and reset options made using javascript and DOM and with styling using CSS
+
+A basic Stopwatch with start,stop,lap and reset functions made using javascript,DOM and with styling using CSS
 
 ![Screenshot 2023-08-08 133333](https://github.com/pranav-saluja-125/StopWatch/assets/111756527/502b7b4e-26c8-4fbd-b481-17e770d3bca1)
 
